@@ -1,0 +1,12 @@
+---
+layout: index
+---
+<h1> Games </h1>
+
+{% for game in site.games %}
+  <div>
+    <h3>
+      <a href="{{site.baseurl}}{{game.url}}">{{game.title}}</a>
+    </h3>
+  </div>
+{% endfor %}
