@@ -1,12 +1,16 @@
 ---
 layout: index
 ---
-<h1> Games </h1>
 
-{% for game in site.games %}
-  <div>
-    <h3>
-      <a href="{{site.baseurl}}{{game.url}}">{{game.title}}</a>
-    </h3>
-  </div>
-{% endfor %}
+<div class="home">
+  <h1> Games </h1>
+  
+  {% for game in site.games %}
+    <div class="game-icon">
+      <a href="{{site.baseurl}}{{game.url}}">
+        <h2> {{game.title}} </h2>
+        <img src="{{game.icon}}" />
+      </a>
+    </div>
+  {% endfor %}
+</div>
