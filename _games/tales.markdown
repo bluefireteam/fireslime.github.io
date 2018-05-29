@@ -4,6 +4,7 @@ title: Tales of a Lost Mine
 banner: /assets/imgs/games/tales/banner.png
 icon: /assets/imgs/games/tales/icon.png
 ---
+<h1>Tales of a Lost Mine</h1>
 
 Tales of a Lost Mine is a Metroidvania styled game for Android. Get into the role of an explorer trying to uncover the secrets of a long lost mine.
 
