@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Fireslime
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fireslime.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: ""
+google_analytics: "UA-120310044-1"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
