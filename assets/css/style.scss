@@ -3,9 +3,21 @@
 @import "{{ site.theme }}";
 
 #title {
-  height: 250px;
+  height: 220px;
   background-position: bottom;
   background-repeat: no-repeat;
+  margin-bottom: 20px;
+}
+
+.page-game #title {
+  height: 175px;
+  background-size: 100%;
+}
+
+.nav-menu {
+  font-size: 18px;
+  margin-bottom: 25px;
+  text-align: center;
 }
 
 .home {
@@ -14,4 +26,8 @@
 
 .game-icon img {
   width: 250px;
+}
+
+.game-index-link h2 {
+  text-decoration: underline;
 }

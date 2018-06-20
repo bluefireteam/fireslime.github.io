@@ -2,6 +2,7 @@
 layout: index
 title: Tales of a Lost Mine
 banner: /assets/imgs/games/tales/banner.png
+page_type: game
 icon: /assets/imgs/games/tales/icon.png
 ---
 <h1>Tales of a Lost Mine</h1>
