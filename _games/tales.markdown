@@ -11,6 +11,8 @@ Tales of a Lost Mine is a Metroidvania styled game for Android. Get into the rol
 
 **Status:** Under development
 
+<h3><a target="_blank" href="https://zc.vg/sf/rthP">Be notified when the game releases</a></h3>
+
 # Screenshots
 
 <div id="carouselScreenshot" class="carousel slide" data-ride="carousel">
@@ -36,10 +38,7 @@ Tales of a Lost Mine is a Metroidvania styled game for Android. Get into the rol
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/imgs/games/tales/screenshots/7.png">
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/imgs/games/tales/screenshots/8.png">
-    </div>
-  </div>
+ </div>
   <a class="carousel-control-prev" href="#carouselScreenshot" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
