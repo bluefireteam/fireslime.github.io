@@ -21,6 +21,8 @@ url: "https://fireslime.xyz" # the base hostname & protocol for your site, e.g. 
 google_analytics: "UA-120310044-1"
 email: contact@fireslime.xyz
 reddit: https://www.reddit.com/r/fireslime/
+twitter: https://twitter.com/Fireslime4
+discord: https://discord.gg/jzM7vPP
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
