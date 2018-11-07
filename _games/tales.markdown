@@ -11,6 +11,12 @@ Tales of a Lost Mine is a Metroidvania styled game for Android. Get into the rol
 
 **Status:** Under development
 
+## Game demo 
+
+A demo is already available for android:
+
+<a href='http://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' style="width: 60%" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 <h3><a target="_blank" href="https://zc.vg/sf/rthP">Be notified when the game releases</a></h3>
 
 # Screenshots
