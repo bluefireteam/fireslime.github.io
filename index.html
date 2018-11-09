@@ -5,7 +5,7 @@ layout: index
     <div class="home-section">
       <h1> Latest News </h1>
       <ul class="home-news-list">
-        {% for new in site.news reversed limit: 2 %}
+        {% for new in site.news reversed %}
           <li>
             <a href="{{site.baseurl}}{{new.url}}">
               {{new.title}}

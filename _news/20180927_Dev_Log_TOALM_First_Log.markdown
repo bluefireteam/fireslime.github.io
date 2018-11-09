@@ -1,5 +1,5 @@
 ---
-layout: new 
+layout: new
 title: "Tales of a Lost Mine First Devlog"
 date: 2018-09-27
 ---
