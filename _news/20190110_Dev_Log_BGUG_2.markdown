@@ -18,4 +18,4 @@ The Gameplay is also basically done:
 
 <img src="/assets/imgs/news/20190110/gameplay.gif" />
 
-So, to sum up, we did not have given up, still working hard and hopping that the next time you hear from us, is a release announcement from BGUG!
+So, to sum up, we have not given up, we are still working hard and hopping that the next time you hear from us, is a release announcement from BGUG!
