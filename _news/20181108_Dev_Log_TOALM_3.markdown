@@ -16,15 +16,15 @@ If you have not yet, join/subscribe our social networks: ([Reddit](https://www.r
 
 Some other great news that we have to share is that a desktop version of the game may really be a thing in the future, we did some tests with running flutter on Desktop and the stability of the platform is better than we though it would be, check out the pictures below of the game running on a MacOs and Linux notebooks:
 
-<img src="/assets/imgs/news/20191108/tales_on_linux.jpg" />
-<img src="/assets/imgs/news/20191108/tales_on_mac.jpg" />
+<img src="/assets/imgs/news/20181108/tales_on_linux.jpg" />
+<img src="/assets/imgs/news/20181108/tales_on_mac.jpg" />
 
 We also did some rework on the game tileset after we got some pretty good feedback from the [r/metroidvania subrredit](https://www.reddit.com/r/metroidvania) (if anyone from this subrredit is reading this, my sincere thanks, this community is amazing). It is not yet finished but it already looks much better, check it how it was before and after the change:
 
-<img src="/assets/imgs/news/20191108/Print3.jpg" />
-<img src="/assets/imgs/news/20191108/Print1.jpg" />
+<img src="/assets/imgs/news/20181108/Print3.jpg" />
+<img src="/assets/imgs/news/20181108/Print1.jpg" />
 
-<img src="/assets/imgs/news/20191108/Print4.jpg" />
-<img src="/assets/imgs/news/20191108/Print2.jpg" />
+<img src="/assets/imgs/news/20181108/Print4.jpg" />
+<img src="/assets/imgs/news/20181108/Print2.jpg" />
 
 And that is all for today's devlog, Thanks for reading this and hope to see you on our next devlog!

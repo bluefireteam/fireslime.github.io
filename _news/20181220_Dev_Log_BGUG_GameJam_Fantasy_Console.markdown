@@ -10,7 +10,7 @@ We also did some work on QRI, a side project that we are working on, it will be 
 
 We did also joined a jam on itch about retro platformers, with the cyberpunk theme, we planned on making it a Single Screen Puzzle Platformer but unfortunately we were not able to finish our entry in time, but it was a really good learning experience, and we plan in trying to finish the game eventually, you can checkout some of its art below:
 
-<img src="/assets/imgs/news/20191220/cyberpunk.png" />
+<img src="/assets/imgs/news/20181220/cyberpunk.png" />
 
 We also recommend checking out the [Streamer](https://www.twitch.tv/mrjoshuamclean) who held the jam, he does monthly jams and they are really interesting.
 
