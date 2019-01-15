@@ -9,13 +9,16 @@ icon: /assets/imgs/games/bgug/icon.png
 
 Break Guns Using Gems is a casual game where you control a robot, collecting gems while dodging bullets and obstacles and break guns using the gems collected, easy to pick up, hard to master!
 
-**Status:** Under development
+<a href='http://play.google.com/store/apps/details?id=xyz.luan.bgug&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' style="width: 100%" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 # Screenshots
 
 <div id="carouselScreenshot" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/gameplay.gif">
+    </div>
+    <div class="carousel-item">
       <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/1.png">
     </div>
     <div class="carousel-item">
@@ -23,9 +26,6 @@ Break Guns Using Gems is a casual game where you control a robot, collecting gem
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/3.png">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/4.png">
     </div>
  </div>
   <a class="carousel-control-prev" href="#carouselScreenshot" role="button" data-slide="prev">
