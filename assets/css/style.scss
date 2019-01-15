@@ -2,6 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
+@media (min-width: 1025px) {
+  .game-icon {
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+  }
+}
+
 #title {
   height: 220px;
   background-position: bottom;
