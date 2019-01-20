@@ -27,6 +27,9 @@ Break Guns Using Gems is a casual game where you control a robot, collecting gem
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/3.png">
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/4.png">
+    </div>
  </div>
   <a class="carousel-control-prev" href="#carouselScreenshot" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
