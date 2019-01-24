@@ -10,7 +10,7 @@ So we finally Break Guns Using Gems, our first released game. And we are already
 
 <div class="center">
   <img class="small" src="/assets/imgs/news/20190124/obstacle.gif" />
-  <img class="small" src="/assets/imgs/news/20190124/block.gif" />
+  <img style="height: 190px; width: 190px;" src="/assets/imgs/news/20190124/block.gif" />
 </div>
 
 We should release another new update soon, with a store with improved visuals, bugs fixes and a global leaderboard! So stay tuned for updates, and if you did not yet downloaded the game, [get it here](https://play.google.com/store/apps/details?id=xyz.luan.bgug).
