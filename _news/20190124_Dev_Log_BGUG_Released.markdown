@@ -6,7 +6,7 @@ date: 2019-01-24
 
 Hello everyone!
 
-So we finally Break Guns Using Gems, our first released game. And we are already working on improving it, since the release we already fixed some problems and improved the obstacle and block animation sprite:
+So we finally released Break Guns Using Gems, our first ever game. And we are already working on improving it, since the release we already fixed some problems and improved the obstacle and block animation sprite:
 
 <div class="center">
   <img class="small" src="/assets/imgs/news/20190124/obstacle.gif" />
