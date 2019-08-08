@@ -13,6 +13,10 @@ Game features Power Ups and wearable hats that can be obtained with coins collec
 
 <a href='http://play.google.com/store/apps/details?id=xyz.fireslime.bob_box&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' style="width: 100%" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
+<div style="text-align: center; padding-bottom: 100px;">
+<a href='https://apps.apple.com/app/id1475025340'><img alt='Get it on the App Store' style="width: 85%" src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png'/></a>
+</div>
+
 # Screenshots
 
 <div id="carouselScreenshot" class="carousel slide" data-ride="carousel">
