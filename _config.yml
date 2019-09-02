@@ -30,6 +30,8 @@ theme: jekyll-theme-midnight
 collections:
   news:
     output: true
+  articles:
+    output: true
   games:
     output: true
   demos:

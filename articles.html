@@ -1,0 +1,20 @@
+---
+layout: index
+---
+  <div class="home">
+    <div class="home-section">
+      <h1> Articles </h1>
+        <div class="articles-sections">
+          {% for article in site.articles reversed %}
+          <a href="{{site.baseurl}}{{article.url}}">
+            <h2>
+              {{article.title}}
+            </h2>
+            <hr />
+          </a>
+          {% endfor %}
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
