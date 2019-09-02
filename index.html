@@ -3,19 +3,7 @@ layout: index
 ---
   <div class="home">
     <div class="home-section">
-      <h1> Latest News </h1>
-      <ul class="home-news-list">
-        {% for new in site.news reversed %}
-          <li>
-            <a href="{{site.baseurl}}{{new.url}}">
-              {{new.title}}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="home-section">
-	    <h1> Games </h1>
+	    <h1> Our Games </h1>
       {% for game in site.games %}
         <div class="game-icon">
           <a class="game-index-link" href="{{site.baseurl}}{{game.url}}">

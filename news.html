@@ -1,0 +1,20 @@
+---
+layout: index
+---
+  <div class="home">
+    <div class="home-section">
+      <h1> Latest News </h1>
+        <div class="news-sections">
+          {% for new in site.news reversed %}
+          <a href="{{site.baseurl}}{{new.url}}">
+            <h2>
+              {{new.title}}
+            </h2>
+            <hr />
+          </a>
+          {% endfor %}
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
