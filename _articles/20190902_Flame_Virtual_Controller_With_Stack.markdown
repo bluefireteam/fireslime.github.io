@@ -7,7 +7,7 @@ author: Erick
 
 One thing that a lot of people asks us, is how to create a virtual gamepad for the input your game. Of course there are a lot of solutions for that, you could for example render it in game, and handle the touch events yourself (which is how we do on [Tales of a lost mine](/games/tales.html)), but one nice solution that I have found recently is to use Flutter's `Stack` widget.
 
-So, what does the `Stack` widget does? It is a basic structure widget that lets you "stack" widgets on top of which other, that works very well for what we are trying to make, since our virtual gamepad will stay above the game itself.
+So, what does the `Stack` widget does? It is a basic structure widget that lets you "stack" widgets on top of which other, that works very well for what we are trying to make, since our virtual gamepad will show in front of the the game itself.
 
 In this article we will be building something very simple, we will have a Flame game with a white square on the screen, where the player can use a "left" and "right" button to move the player, by the end of the article we should have something like this:
 
@@ -55,7 +55,7 @@ class MyGame extends BaseGame {
 }
 ```
 
-Next, lets create our gamepad buttons, bellow is the source of a very basic widget which will represent our button, it basically renders a grey box, and wraps itself inside a `GestureDetector` so we can handle tap events:
+Next, lets create our gamepad buttons, below is the source of a very basic widget which will represent our button, it basically renders a grey box, and wraps itself inside a `GestureDetector` so we can handle tap events:
 
 ```dart
 class GameButton extends StatelessWidget {
@@ -121,8 +121,10 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-The key widgets here are the `Stack` and the `Positioned`, when we just add a widget to the `Stack`, it will be rendered on the top of the `Stack` without any proper position, by wrapping a widget with a `Positioned` component we can set where it should be positioned, and that is what we do with the `GameButton` widget, positioning each one on each bottom corner of the screen.
+The key widgets here are the `Stack` and the `Positioned`, when we just add a widget to the `Stack`, it will be rendered on the top of the `Stack` without any proper position. By wrapping a widget with a `Positioned` component we can set where it should be positioned, and that is what we do with the `GameButton` widget, positioning each one on each bottom corner of the screen.
 
-This is very simple example, just to show you the basics how a virtual gamepad could be achieved, and could be expanded to have better looks and fell, the `GameButton` component could be turned into a `StatefulWidget` for example, to have a different look when it is pressed and so on, the sky is the limit.
+Note that we need to hold the game instance into a variable, so we can call the movement methods on the `GestureDetector` tap handlers.
+
+This is a very simple example, just to show you the basics how a virtual gamepad could be achieved, and could be expanded to have a better looks and fell, the `GameButton` component could be turned into a `StatefulWidget` for example, to have a different look when it is pressed and so on, the sky is the limit.
 
 The complete source for this example can be found [here](https://github.com/fireslime/flame-examples/tree/master/stack_controls).
