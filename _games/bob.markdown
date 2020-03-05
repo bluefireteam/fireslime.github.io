@@ -33,9 +33,6 @@ Game features Power Ups and wearable hats that can be obtained with coins collec
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/imgs/games/bob/screen4.jpeg">
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/imgs/games/bgug/screenshots/4.png">
-    </div>
  </div>
   <a class="carousel-control-prev" href="#carouselScreenshot" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
