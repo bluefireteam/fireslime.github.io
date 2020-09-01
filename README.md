@@ -1,6 +1,6 @@
-# fireslime website
+# Fireslime website
 
-This is just our static front page.
+This is just our static front page. It's deployed [here](https://fireslime.xyz).
 
 Built using Jekyll and love.
 
