@@ -6,7 +6,7 @@ Built using Jekyll and love.
 
 ## Instructions
 
-Install Ruby (with RVM preferably), I'm using **ruby-2.6.0-preview2** right now.
+Install Ruby (with RVM preferably), I'm using **ruby-2.6.3** right now.
 
 Install the bundler if you haven't already and run
 
