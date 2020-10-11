@@ -14,7 +14,7 @@ Game features Power Ups and wearable hats that can be obtained with coins collec
 <a href='http://play.google.com/store/apps/details?id=xyz.fireslime.bob_box&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' style="width: 100%" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 <div style="text-align: center; padding-bottom: 100px;">
-<a href='https://apps.apple.com/app/id1475025340'><img alt='Get it on the App Store' style="width: 85%" src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred_2x.png'/></a>
+<a href='https://apps.apple.com/app/id1475025340'><img alt='Get it on the App Store' style="width: 85%" src='/assets/imgs/ios-app-store-badge.svg'></a>
 </div>
 
 # Screenshots
@@ -43,3 +43,9 @@ Game features Power Ups and wearable hats that can be obtained with coins collec
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<br />
+
+# Featured On
+
+Bob Box was recently featured on the article [Underrated Casual Games To Play on IOS](https://gameskeys.net/underrated-casual-games-to-play-on-ios/), by GamesKeys.
