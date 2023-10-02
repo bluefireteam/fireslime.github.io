@@ -1,3 +1,8 @@
+## ⚠️ This repository is archived, as Fire Slime is no more
+
+You can find the source for the [new Blue Fire website](https://blue-fire.xyz) [here](https://github.com/bluefireteam/blue-fire-site).
+
+
 # Fireslime website
 
 This is just our static front page. It's deployed [here](https://fireslime.xyz).
